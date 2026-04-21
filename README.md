@@ -1,0 +1,2 @@
+🚀 ToDo List App - .NET Logic & Task Management
+Bu proje, bir Backend Developer adayı olarak C# ve .NET Framework yetkinliklerimi, nesne yönelimli programlama (OOP) mantığını ve veri yönetim süreçlerini sergilemek amacıyla geliştirilmiştir. Uygulama, sadece görevleri listelemekle kalmaz; veri tutarlılığı, olay tabanlı programlama (event-driven) ve dinamik istatistik hesaplama gibi backend temellerini içerir.
